@@ -5,7 +5,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="RStill - CV/Resume">
+    <meta name="description" content="Livio Rodrigues - CV/Resume">
     <meta name="keywords" content="cv, resume, portfolio, creative, modern">
     <meta name="author" content="Hamza Gourram">
     <!-- Page Title -->
@@ -147,11 +147,11 @@
                                         <!--<a href="#" data-tootik="Google Plus" data-tootik-conf="square"><i class="fa fa-google-plus" aria-hidden="true"></i></a>-->
                                         <!--</li>-->
                                         <li class="li-social-links">
-                                            <a href="#" data-tootik="Linkedin" data-tootik-conf="square"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                                            <a href="https://www.linkedin.com/in/livio-rodrigues/" data-tootik="Linkedin" data-tootik-conf="square"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
                                         </li>
-                                        <!--<li class="li-social-links">-->
-                                        <!--<a href="#" data-tootik="Dribbble" data-tootik-conf="square"><i class="fa fa-dribbble" aria-hidden="true"></i></a>-->
-                                        <!--</li>-->
+                                        <li class="li-social-links">
+                                            <a href="https://github.com/livioweb/" data-tootik="Github" data-tootik-conf="square"><i class="fa fa-github" aria-hidden="true"></i></a>
+                                        </li>
                                         <!--<li class="li-social-links">-->
                                         <!--<a href="#" data-tootik="Pinterest" data-tootik-conf="square"><i class="fa fa-pinterest-p" aria-hidden="true"></i></a>-->
                                         <!--</li>-->
@@ -192,6 +192,7 @@
                             </div>
                         </div>
                         <!-- / single skill -->
+
                         <!-- single skill -->
                         <div class="skill">
                             <div class="title-progress">
@@ -199,7 +200,7 @@
                                 <span class="skill-value">90%</span>
                             </div>
                             <div class="progress">
-                                <div class="progress-bar progress2" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 75%;">
+                                <div class="progress-bar progress2" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%;">
                                 </div>
                             </div>
                         </div>
@@ -207,11 +208,11 @@
                         <!-- single skill -->
                         <div class="skill">
                             <div class="title-progress">
-                                <span class="skill-name">JavaScript</span>
+                                <span class="skill-name">MongoDB</span>
                                 <span class="skill-value">75%</span>
                             </div>
                             <div class="progress">
-                                <div class="progress-bar progress3" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 85%;">
+                                <div class="progress-bar progress3" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 75%;">
                                 </div>
                             </div>
                         </div>
@@ -223,7 +224,7 @@
                                 <span class="skill-value">85%</span>
                             </div>
                             <div class="progress">
-                                <div class="progress-bar progress4" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 70%;">
+                                <div class="progress-bar progress4" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 85%;">
                                 </div>
                             </div>
                         </div>
@@ -243,47 +244,11 @@
                         <!-- single skill -->
                         <div class="skill">
                             <div class="title-progress">
-                                <span class="skill-name">Symphony</span>
+                                <span class="skill-name">Linux</span>
                                 <span class="skill-value">65%</span>
                             </div>
                             <div class="progress">
-                                <div class="progress-bar progress5" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 65%;">
-                                </div>
-                            </div>
-                        </div>
-                        <!-- / single skill -->
-                        <!-- single skill -->
-                        <div class="skill">
-                            <div class="title-progress">
-                                <span class="skill-name">Symphony</span>
-                                <span class="skill-value">65%</span>
-                            </div>
-                            <div class="progress">
-                                <div class="progress-bar progress5" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 65%;">
-                                </div>
-                            </div>
-                        </div>
-                        <!-- / single skill -->
-                        <!-- single skill -->
-                        <div class="skill">
-                            <div class="title-progress">
-                                <span class="skill-name">Symphony</span>
-                                <span class="skill-value">65%</span>
-                            </div>
-                            <div class="progress">
-                                <div class="progress-bar progress5" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 65%;">
-                                </div>
-                            </div>
-                        </div>
-                        <!-- / single skill -->
-                        <!-- single skill -->
-                        <div class="skill">
-                            <div class="title-progress">
-                                <span class="skill-name">Symphony</span>
-                                <span class="skill-value">65%</span>
-                            </div>
-                            <div class="progress">
-                                <div class="progress-bar progress5" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 65%;">
+                                <div class="progress-bar progress5" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 80%;">
                                 </div>
                             </div>
                         </div>
@@ -366,6 +331,30 @@
                                             <span>API Developer</span>
                                         </div>
                                         <!-- / single other skill -->
+                                        <!-- single other skill -->
+                                        <div class="skill">
+                                            <i class="fa fa-check-square-o" aria-hidden="true"></i>
+                                            <span>Wordpree</span>
+                                        </div>
+                                        <!-- / single other skill -->
+                                        <!-- single other skill -->
+                                        <div class="skill">
+                                            <i class="fa fa-check-square-o" aria-hidden="true"></i>
+                                            <span>Integração API Magento</span>
+                                        </div>
+                                        <!-- / single other skill -->
+                                        <!-- single other skill -->
+                                        <div class="skill">
+                                            <i class="fa fa-check-square-o" aria-hidden="true"></i>
+                                            <span>Golang</span>
+                                        </div>
+                                        <!-- / single other skill -->
+                                        <!-- single other skill -->
+                                        <div class="skill">
+                                            <i class="fa fa-check-square-o" aria-hidden="true"></i>
+                                            <span>Spring/Java</span>
+                                        </div>
+                                        <!-- / single other skill -->
                                     </div>
                                 </div>
                                 <div class="col-sm-6">
@@ -385,9 +374,34 @@
                                         <!-- single other skill -->
                                         <div class="skill">
                                             <i class="fa fa-check-square-o" aria-hidden="true"></i>
+                                            <span>Gestão Agil</span>
+                                        </div>
+                                        <!-- / single other skill -->
+                                        <!-- single other skill -->
+                                        <div class="skill">
+                                            <i class="fa fa-check-square-o" aria-hidden="true"></i>
+                                            <span>Metodológica Skrum</span>
+                                        </div>
+                                        <!-- / single other skill -->
+                                        <!-- single other skill -->
+                                        <div class="skill">
+                                            <i class="fa fa-check-square-o" aria-hidden="true"></i>
+                                            <span>Gateways de pagamentos</span>
+                                        </div>
+                                        <!-- / single other skill -->
+                                        <!-- single other skill -->
+                                        <div class="skill">
+                                            <i class="fa fa-check-square-o" aria-hidden="true"></i>
+                                            <span>Spring/Java</span>
+                                        </div>
+                                        <!-- / single other skill -->
+                                        <!-- single other skill -->
+                                        <div class="skill">
+                                            <i class="fa fa-check-square-o" aria-hidden="true"></i>
                                             <span>Eterno Aprendiz</span>
                                         </div>
                                         <!-- / single other skill -->
+
                                     </div>
                                 </div>
                             </div>
@@ -414,17 +428,18 @@
                             <li class="li-specialty">
                                 <div class="specialty">
                                     <span class="education-icon"><i class="fa fa-file-text"></i></span>
-                                    <span class="specialty-name">Full Stack Developer</span>
+                                    <span class="specialty-name">Ciencias da Computação</span>
                                 </div>
                             </li>
                             <li class="li-university">
                                 <div class="university">
                                     <span class="education-icon"><i class="fa fa-university"></i></span>
-                                    <span class="university-name">Oxford University</span>
+                                    <span class="university-name">Faculdade Pitagoras</span>
                                 </div>
                             </li>
                         </ul>
-                        <p class="prg-education">I completed this degree from this prestigious insitution. I successful completed all the credits without any fallout and got A grade overall.</p>
+                        <p class="prg-education">
+                            Eu completei este grau com essa prestigiosa instituição. Eu completei todos os créditos sem nenhuma falha e obtive uma classificação geral</p>
                     </div>
                 </div>
                 <!-- / single education -->
@@ -438,17 +453,17 @@
                             <li class="li-specialty">
                                 <div class="specialty">
                                     <span class="education-icon"><i class="fa fa-file-text"></i></span>
-                                    <span class="specialty-name">Computer Science</span>
+                                    <span class="specialty-name">Ciencias do Direito</span>
                                 </div>
                             </li>
                             <li class="li-university">
                                 <div class="university">
                                     <span class="education-icon"><i class="fa fa-university"></i></span>
-                                    <span class="university-name">Lipro University</span>
+                                    <span class="university-name">Faculdade FACAM</span>
                                 </div>
                             </li>
                         </ul>
-                        <p class="prg-education">I completed this degree from this prestigious insitution. I successful completed all the credits without any fallout and got A grade overall.</p>
+                        <p class="prg-education">Cursei até o quarto periodo.</p>
                     </div>
                 </div>
                 <!-- / single education -->
@@ -462,17 +477,17 @@
                             <li class="li-specialty">
                                 <div class="specialty">
                                     <span class="education-icon"><i class="fa fa-file-text"></i></span>
-                                    <span class="specialty-name">Desktop Development</span>
+                                    <span class="specialty-name">Autodidata Development</span>
                                 </div>
                             </li>
                             <li class="li-university">
                                 <div class="university">
                                     <span class="education-icon"><i class="fa fa-university"></i></span>
-                                    <span class="university-name">Oxford University</span>
+                                    <span class="university-name">Life University</span>
                                 </div>
                             </li>
                         </ul>
-                        <p class="prg-education">I completed this degree from this prestigious insitution. I successful completed all the credits without any fallout and got A grade overall.</p>
+                        <p class="prg-education">Sempre me aperfeiçoando, melhorando e adquirindo novas skills </p>
                     </div>
                 </div>
                 <!-- / single education -->
@@ -482,7 +497,7 @@
         <!-- #EXPERIENCE# -->
         <section id="experience" class="section section-experience wow fadeInUp" data-wow-offset="40">
             <div class="header-section">
-                <h2 class="h2-section">EXPERIENCIA</h2>
+                <h2 class="h2-section">EXPERIÊNCIA</h2>
             </div>
             <div class="row">
                 <div class="col-md-10 col-md-offset-1">
@@ -552,131 +567,131 @@
             </div>
         </section>
         <!-- #PORTFOLIO# -->
-        <section id="portfolio" class="section section-portfolio wow fadeInUp" data-wow-offset="40">
-            <div class="header-section">
-                <h2 class="h2-section">PORTFOLIO</h2>
-            </div>
-            <div class="filter-portfolio">
-                <ul>
-                    <li class="active filter" data-filter="all">All</li>
-                    <li class="filter" data-filter=".term1">Web Design</li>
-                    <li class="filter" data-filter=".term2">Fotografia</li>
-                    <li class="filter" data-filter=".term3">Desenvolvimentos</li>
-                </ul>
-            </div>
-            <div class="row">
+<!--        <section id="portfolio" class="section section-portfolio wow fadeInUp" data-wow-offset="40">-->
+<!--            <div class="header-section">-->
+<!--                <h2 class="h2-section">PORTFOLIO</h2>-->
+<!--            </div>-->
+<!--            <div class="filter-portfolio">-->
+<!--                <ul>-->
+<!--                    <li class="active filter" data-filter="all">All</li>-->
+<!--                    <li class="filter" data-filter=".term1">Web Design</li>-->
+<!--                    <li class="filter" data-filter=".term2">Fotografia</li>-->
+<!--                    <li class="filter" data-filter=".term3">Desenvolvimentos</li>-->
+<!--                </ul>-->
+<!--            </div>-->
+<!--            <div class="row">-->
                 <!-- single work -->
-                <div class="col-sm-4">
-                    <div class="item-portfolio term3">
-                        <div class="item-overlay">
-                            <div class="item-content">
-										<span class="icon-search">
-											<a class="work-popup" href="images/portfolio/item1.jpg" data-group="1"><i class="fa fa-search" aria-hidden="true"></i></a>
-										</span>
-                                <span class="icon-plus">
-											<a href="#"><i class="fa fa-plus" aria-hidden="true"></i></a>
-										</span>
-                                <h3>AWESOME TITLE PORTFOLIO</h3>
-                            </div>
-                        </div>
-                        <img src="images/portfolio/item1.jpg" alt="">
-                    </div>
-                </div>
+<!--                <div class="col-sm-4">-->
+<!--                    <div class="item-portfolio term3">-->
+<!--                        <div class="item-overlay">-->
+<!--                            <div class="item-content">-->
+<!--										<span class="icon-search">-->
+<!--											<a class="work-popup" href="images/portfolio/item1.jpg" data-group="1"><i class="fa fa-search" aria-hidden="true"></i></a>-->
+<!--										</span>-->
+<!--                                <span class="icon-plus">-->
+<!--											<a href="#"><i class="fa fa-plus" aria-hidden="true"></i></a>-->
+<!--										</span>-->
+<!--                                <h3>AWESOME TITLE PORTFOLIO</h3>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                        <img src="images/portfolio/item1.jpg" alt="">-->
+<!--                    </div>-->
+<!--                </div>-->
                 <!-- / single work -->
                 <!-- single work -->
-                <div class="col-sm-4">
-                    <div class="item-portfolio term1">
-                        <div class="item-overlay">
-                            <div class="item-content">
-										<span class="icon-search">
-											<a class="work-popup" href="images/portfolio/item2.jpg" data-group="1"><i class="fa fa-search" aria-hidden="true"></i></a>
-										</span>
-                                <span class="icon-plus">
-											<a href="#"><i class="fa fa-plus" aria-hidden="true"></i></a>
-										</span>
-                                <h3>AWESOME TITLE PORTFOLIO</h3>
-                            </div>
-                        </div>
-                        <img src="images/portfolio/item2.jpg" alt="">
-                    </div>
-                </div>
+<!--                <div class="col-sm-4">-->
+<!--                    <div class="item-portfolio term1">-->
+<!--                        <div class="item-overlay">-->
+<!--                            <div class="item-content">-->
+<!--										<span class="icon-search">-->
+<!--											<a class="work-popup" href="images/portfolio/item2.jpg" data-group="1"><i class="fa fa-search" aria-hidden="true"></i></a>-->
+<!--										</span>-->
+<!--                                <span class="icon-plus">-->
+<!--											<a href="#"><i class="fa fa-plus" aria-hidden="true"></i></a>-->
+<!--										</span>-->
+<!--                                <h3>AWESOME TITLE PORTFOLIO</h3>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                        <img src="images/portfolio/item2.jpg" alt="">-->
+<!--                    </div>-->
+<!--                </div>-->
                 <!-- / single work -->
                 <!-- single work -->
-                <div class="col-sm-4">
-                    <div class="item-portfolio term2">
-                        <div class="item-overlay">
-                            <div class="item-content">
-										<span class="icon-search">
-											<a class="work-popup" href="images/portfolio/item3.jpg" data-group="1"><i class="fa fa-search" aria-hidden="true"></i></a>
-										</span>
-                                <span class="icon-plus">
-											<a href="#"><i class="fa fa-plus" aria-hidden="true"></i></a>
-										</span>
-                                <h3>AWESOME TITLE PORTFOLIO</h3>
-                            </div>
-                        </div>
-                        <img src="images/portfolio/item3.jpg" alt="">
-                    </div>
-                </div>
+<!--                <div class="col-sm-4">-->
+<!--                    <div class="item-portfolio term2">-->
+<!--                        <div class="item-overlay">-->
+<!--                            <div class="item-content">-->
+<!--										<span class="icon-search">-->
+<!--											<a class="work-popup" href="images/portfolio/item3.jpg" data-group="1"><i class="fa fa-search" aria-hidden="true"></i></a>-->
+<!--										</span>-->
+<!--                                <span class="icon-plus">-->
+<!--											<a href="#"><i class="fa fa-plus" aria-hidden="true"></i></a>-->
+<!--										</span>-->
+<!--                                <h3>AWESOME TITLE PORTFOLIO</h3>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                        <img src="images/portfolio/item3.jpg" alt="">-->
+<!--                    </div>-->
+<!--                </div>-->
                 <!-- / single work -->
-                <div class="clearfix"></div>
+<!--                <div class="clearfix"></div>-->
                 <!-- single work -->
-                <div class="col-sm-4">
-                    <div class="item-portfolio term2">
-                        <div class="item-overlay">
-                            <div class="item-content">
-										<span class="icon-search">
-											<a class="work-popup" href="images/portfolio/item4.jpg" data-group="1"><i class="fa fa-search" aria-hidden="true"></i></a>
-										</span>
-                                <span class="icon-plus">
-											<a href="#"><i class="fa fa-plus" aria-hidden="true"></i></a>
-										</span>
-                                <h3>AWESOME TITLE PORTFOLIO</h3>
-                            </div>
-                        </div>
-                        <img src="images/portfolio/item4.jpg" alt="">
-                    </div>
-                </div>
-                <!-- / single work -->
-                <!-- single work -->
-                <div class="col-sm-4">
-                    <div class="item-portfolio term1">
-                        <div class="item-overlay">
-                            <div class="item-content">
-										<span class="icon-search">
-											<a class="work-popup" href="images/portfolio/item5.jpg" data-group="1"><i class="fa fa-search" aria-hidden="true"></i></a>
-										</span>
-                                <span class="icon-plus">
-											<a href="#"><i class="fa fa-plus" aria-hidden="true"></i></a>
-										</span>
-                                <h3>AWESOME TITLE PORTFOLIO</h3>
-                            </div>
-                        </div>
-                        <img src="images/portfolio/item5.jpg" alt="">
-                    </div>
-                </div>
+<!--                <div class="col-sm-4">-->
+<!--                    <div class="item-portfolio term2">-->
+<!--                        <div class="item-overlay">-->
+<!--                            <div class="item-content">-->
+<!--										<span class="icon-search">-->
+<!--											<a class="work-popup" href="images/portfolio/item4.jpg" data-group="1"><i class="fa fa-search" aria-hidden="true"></i></a>-->
+<!--										</span>-->
+<!--                                <span class="icon-plus">-->
+<!--											<a href="#"><i class="fa fa-plus" aria-hidden="true"></i></a>-->
+<!--										</span>-->
+<!--                                <h3>AWESOME TITLE PORTFOLIO</h3>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                        <img src="images/portfolio/item4.jpg" alt="">-->
+<!--                    </div>-->
+<!--                </div>-->
                 <!-- / single work -->
                 <!-- single work -->
-                <div class="col-sm-4">
-                    <div class="item-portfolio term3">
-                        <div class="item-overlay">
-                            <div class="item-content">
-										<span class="icon-search">
-											<a class="work-popup" href="images/portfolio/item6.jpg" data-group="1"><i class="fa fa-search" aria-hidden="true"></i></a>
-										</span>
-                                <span class="icon-plus">
-											<a href="#"><i class="fa fa-plus" aria-hidden="true"></i></a>
-										</span>
-                                <h3>AWESOME TITLE PORTFOLIO</h3>
-                            </div>
-                        </div>
-                        <img src="images/portfolio/item6.jpg" alt="">
-                    </div>
-                </div>
+<!--                <div class="col-sm-4">-->
+<!--                    <div class="item-portfolio term1">-->
+<!--                        <div class="item-overlay">-->
+<!--                            <div class="item-content">-->
+<!--										<span class="icon-search">-->
+<!--											<a class="work-popup" href="images/portfolio/item5.jpg" data-group="1"><i class="fa fa-search" aria-hidden="true"></i></a>-->
+<!--										</span>-->
+<!--                                <span class="icon-plus">-->
+<!--											<a href="#"><i class="fa fa-plus" aria-hidden="true"></i></a>-->
+<!--										</span>-->
+<!--                                <h3>AWESOME TITLE PORTFOLIO</h3>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                        <img src="images/portfolio/item5.jpg" alt="">-->
+<!--                    </div>-->
+<!--                </div>-->
                 <!-- / single work -->
-                <div class="clearfix"></div>
-            </div>
-        </section>
+                <!-- single work -->
+<!--                <div class="col-sm-4">-->
+<!--                    <div class="item-portfolio term3">-->
+<!--                        <div class="item-overlay">-->
+<!--                            <div class="item-content">-->
+<!--										<span class="icon-search">-->
+<!--											<a class="work-popup" href="images/portfolio/item6.jpg" data-group="1"><i class="fa fa-search" aria-hidden="true"></i></a>-->
+<!--										</span>-->
+<!--                                <span class="icon-plus">-->
+<!--											<a href="#"><i class="fa fa-plus" aria-hidden="true"></i></a>-->
+<!--										</span>-->
+<!--                                <h3>AWESOME TITLE PORTFOLIO</h3>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                        <img src="images/portfolio/item6.jpg" alt="">-->
+<!--                    </div>-->
+<!--                </div>-->
+                <!-- / single work -->
+<!--                <div class="clearfix"></div>-->
+<!--            </div>-->
+<!--        </section>-->
         <!--&lt;!&ndash; #PRICING# &ndash;&gt;-->
         <!--<section id="pricing" class="section section-pricing wow fadeInUp" data-wow-offset="40">-->
         <!--<div class="header-section">-->
@@ -902,6 +917,12 @@
                     </div>
                     <div class="swiper-slide">
                         <div>
+                            <img src="images/interests/bicycling_icon.png" alt="Bicycling">
+                        </div>
+                        <h4>Ciclismo</h4>
+                    </div>
+                    <div class="swiper-slide">
+                        <div>
                             <img src="images/interests/swiming_icon.png" alt="Swiming">
                         </div>
                         <h4>Natação</h4>
@@ -917,12 +938,6 @@
                             <img src="images/interests/shopping_icon.png" alt="Shopping">
                         </div>
                         <h4>Shopping</h4>
-                    </div>
-                    <div class="swiper-slide">
-                        <div>
-                            <img src="images/interests/bicycling_icon.png" alt="Bicycling">
-                        </div>
-                        <h4>Ciclismo</h4>
                     </div>
                     <div class="swiper-slide">
                         <div>
@@ -979,12 +994,12 @@
         <!-- #CONTACT_US# -->
         <section id="contact-us" class="section section-contact-us wow fadeInUp" data-wow-offset="40">
             <div class="header-section">
-                <h2 class="h2-section">CONTACT US</h2>
+                <h2 class="h2-section">CONTATO</h2>
             </div>
             <div class="row">
                 <div class="col-sm-7">
                     <div class="form-content">
-                        <h3>LET'S HAVE A FUN</h3>
+                        <h3>Manda uma ideia bacana ai brouu</h3>
                         <form id="contactForm" data-toggle="validator">
                             <input type="text" id="name" placeholder="Name" required>
                             <input type="email" id="email" placeholder="Email" required>
@@ -1053,6 +1068,30 @@
             lineCap: 'square'
         });
     });
+
+
+    $(document).on("submit", "form", function(event)
+    {
+        event.preventDefault();
+        $.ajax({
+            url: $(this).attr("action"),
+            type: $(this).attr("method"),
+            dataType: "JSON",
+            data: new FormData(this),
+            processData: false,
+            contentType: false,
+            success: function (data, status)
+            {
+
+            },
+            error: function (xhr, desc, err)
+            {
+
+
+            }
+        });
+    });
+
 </script>
 
 </body>

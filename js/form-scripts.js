@@ -2,7 +2,7 @@ $("#contactForm").validator().on("submit", function (event) {
     if (event.isDefaultPrevented()) {
         // handle the invalid form...
         formError();
-        submitMSG(false, "Did you fill in the form properly?");
+        submitMSG(false, "Você preencheu o formulário corretamente?");
     } else {
         // everything looks good!
         event.preventDefault();
@@ -26,6 +26,8 @@ function submitForm(){
             if (text == "success"){
                 formSuccess();
             } else {
+                alert("Em desenvolvimento" + text)
+
                 formError();
                 submitMSG(false,text);
             }
@@ -35,7 +37,7 @@ function submitForm(){
 
 function formSuccess(){
     $("#contactForm")[0].reset();
-    submitMSG(true, "Message Submitted!")
+    submitMSG(true, "Messagem Enviada!")
 }
 
 function formError(){
