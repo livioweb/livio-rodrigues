@@ -248,7 +248,7 @@
                                 <span class="skill-value">65%</span>
                             </div>
                             <div class="progress">
-                                <div class="progress-bar progress5" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 80%;">
+                                <div class="progress-bar progress5" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 65%;">
                                 </div>
                             </div>
                         </div>
