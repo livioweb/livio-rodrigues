@@ -79,7 +79,7 @@
 
                             <img src="https://i.ibb.co/k4SxKYy/45332748-575921736195911-6233706196155498496-n.jpg" alt="45332748-575921736195911-6233706196155498496-n" alt="Livio Rodrigues">
                         </div>
-                        <a href="cv/cv-1.pdf" target="cv">
+                        <a href="https://docs.google.com/document/d/1KRus8YLKuWw9Bx4_3ExK-jpzzdxVRXBJKYvv5voqjGs/edit"  target="_blank">
                             <div class="download-resume">
                                 <i class="fa fa-cloud-download" aria-hidden="true"></i>
                                 <span class="text-download">DOWNLOAD CURRÍCULO</span>
@@ -96,7 +96,11 @@
                             <h3>web developer</h3>
                             <p>Desenvolvedor Web com mais de 8 anos de experiência.
                                 Experiente em todas as etapas do ciclo de desenvolvimento de projetos dinâmicos da web.
-                                Tenho um conhecimento profundo incluindo HTML5 avançado, CSS3, PHP, Node.JS, jQuery, VUE. Forte experiência em gestão e liderança</p>
+                                Forte experiência em gestão e liderança</p>
+                            <p>Este projeto 'e um teste de desenvolvimento com integracao continua entre o github com deploy automatico no HEROKU, que hospeda esse projeto,
+                                que pode sere acessado aqui: <a href="https://github.com/livioweb/livio-rodrigues">github.com/livioweb/</a>
+
+                            </p>
                             <div class="row">
                                 <div class="col-sm-6">
                                     <ul class="ul-info">
@@ -106,7 +110,7 @@
                                         </li>
                                         <li class="li-info">
                                             <span class="title-info">Endereço</span>
-                                            <span class="info">Não Divulgado</span>
+                                            <span class="info"> Não Divulgado</span>
                                         </li>
                                         <li class="li-info">
                                             <span class="title-info">Email</span>
@@ -117,8 +121,8 @@
                                 <div class="col-sm-6">
                                     <ul class="ul-info">
                                         <li class="li-info">
-                                            <span class="title-info">Telefne</span>
-                                            <span class="info">Não divulgado</span>
+                                            <span class="title-info">Telefone</span>
+                                            <span class="info"> Não divulgado</span>
                                         </li>
                                         <li class="li-info">
                                             <span class="title-info">Website</span>
@@ -183,7 +187,7 @@
                                 <span class="skill-value">90%</span>
                             </div>
                             <div class="progress">
-                                <div class="progress-bar progress1" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 90%;">
+                                <div class="progress-bar progress1" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 90%;">
                                 </div>
                             </div>
                         </div>
@@ -195,7 +199,7 @@
                                 <span class="skill-value">90%</span>
                             </div>
                             <div class="progress">
-                                <div class="progress-bar progress2" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 75%;">
+                                <div class="progress-bar progress2" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width: 75%;">
                                 </div>
                             </div>
                         </div>
@@ -220,6 +224,54 @@
                             </div>
                             <div class="progress">
                                 <div class="progress-bar progress4" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 70%;">
+                                </div>
+                            </div>
+                        </div>
+                        <!-- / single skill -->
+                        <!-- single skill -->
+                        <div class="skill">
+                            <div class="title-progress">
+                                <span class="skill-name">Symphony</span>
+                                <span class="skill-value">65%</span>
+                            </div>
+                            <div class="progress">
+                                <div class="progress-bar progress5" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 65%;">
+                                </div>
+                            </div>
+                        </div>
+                        <!-- / single skill -->
+                        <!-- single skill -->
+                        <div class="skill">
+                            <div class="title-progress">
+                                <span class="skill-name">Symphony</span>
+                                <span class="skill-value">65%</span>
+                            </div>
+                            <div class="progress">
+                                <div class="progress-bar progress5" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 65%;">
+                                </div>
+                            </div>
+                        </div>
+                        <!-- / single skill -->
+                        <!-- single skill -->
+                        <div class="skill">
+                            <div class="title-progress">
+                                <span class="skill-name">Symphony</span>
+                                <span class="skill-value">65%</span>
+                            </div>
+                            <div class="progress">
+                                <div class="progress-bar progress5" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 65%;">
+                                </div>
+                            </div>
+                        </div>
+                        <!-- / single skill -->
+                        <!-- single skill -->
+                        <div class="skill">
+                            <div class="title-progress">
+                                <span class="skill-name">Symphony</span>
+                                <span class="skill-value">65%</span>
+                            </div>
+                            <div class="progress">
+                                <div class="progress-bar progress5" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 65%;">
                                 </div>
                             </div>
                         </div>
@@ -441,18 +493,58 @@
 
                         <!-- single experience -->
                         <div class="experience-content">
-                            <span class="period-experience">May 2013 - Aug 2014</span>
-                            <h3 class="specialty-name">Software Engineer</h3>
-                            <h3 class="company-name">FACBOOK</h3>
-                            <p class="prg-experience">Curabitur eleifend purus eu efficitur feugiat. Fusce quis libero sit amet urna mattis semper. Fusce ornare tristique scelerisque. Nunc ac cursus nibh. Maecenas lobortis nulla a nunc molestie, at volutpat sapien congue. Sed vehicula nec libero vel blandit. Praesent scelerisque sodales porttitor.</p>
+                            <span class="period-experience"> 11/06/2018 - atual</span>
+                            <h3 class="specialty-name">Desenvolvedor</h3>
+                            <h3 class="company-name">Ahgora Sistemas</h3>
+                            <p class="prg-experience">Integra'cao e manutencao do ecosistema de HCM</p>
                         </div>
                         <!-- / single experience -->
                         <!-- single experience -->
                         <div class="experience-content">
-                            <span class="period-experience">Oct 2008 - Apr 2010</span>
+                            <span class="period-experience"> 11/11/2016 - 21/09/2017</span>
+                            <h3 class="specialty-name">Desenvolvedor</h3>
+                            <h3 class="company-name">Suportware</h3>
+                            <p class="prg-experience">Principais atividades:  programador php/mysql/sqlserver.
+                                Responsável pela implementação do e-commerce(MAGENTO) e integração com o ERP através de API REST
+                                Análise de dados com elasticsearch e disponibilizando relatórios do ERP na web.</p>
+                        </div>
+                        <!-- / single experience -->
+                        <!-- single experience -->
+                        <div class="experience-content">
+                            <span class="period-experience"> 01/07/2008 - 08/10/2011</span>
+                            <h3 class="specialty-name">Programador/analista de sistemas</h3>
+                            <h3 class="company-name">Viacom Lig16</h3>
+                            <p class="prg-experience">	Principais atividades:  programador php/mysql.
+                                Responsável pelo desenvolvimento SGAMA - Sistema de Gerenciamento Acadêmico do Maranhão, nele o aluno podia ter o acervo das aulas,  tanto em vídeos quanto em livros pdf, fazer provas e avaliações, escrever redações, fóruns, dentre outras funcionalidades, como boletim, frequência</p>
+                        </div>
+                        <!-- / single experience -->
+                        <!-- single experience -->
+                        <div class="experience-content">
+                            <span class="period-experience"> 01/07/2012 - 13/02/2015</span>
                             <h3 class="specialty-name">Full Stack Developer</h3>
-                            <h3 class="company-name">TWITTR</h3>
-                            <p class="prg-experience">Aliquam at sapien pretium, iaculis tortor id, euismod turpis. Nulla ante eros, semper a quam ut, dignissim scelerisque eros. Vestibulum congue a elit ut dignissim. Duis vel erat sed massa porta tincidunt at at lectus. Sed mattis commodo vestibulum. Integer bibendum eget tortor nec faucibus.</p>
+                            <h3 class="company-name">VAT Tecnologia da Informação</h3>
+                            <p class="prg-experience">Principais atividades:  programador php/mysql/Jquery
+                                Principais atividades:  programador php/mysql.
+                                Responsável pelo desenvolvimento SGAMA - Sistema de Gerenciamento Acadêmico do Maranhão, nele o aluno podia ter o acervo das aulas,  tanto em vídeos quanto em livros pdf, fazer provas e avaliações, escrever redações, fóruns, dentre outras funcionalidades, como boletim, frequência
+                            </p>
+                        </div>
+                        <!-- / single experience -->
+                        <!-- single experience -->
+                        <div class="experience-content">
+                            <span class="period-experience">10/10/2011 - 01/06/2012</span>
+                            <h3 class="specialty-name">Programador</h3>
+                            <h3 class="company-name">Maiswebs - Desenvolvimento de sistemas web</h3>
+                            <p class="prg-experience">Principais atividades:  programador php/mysql
+                                Responsável pelo desenvolvimento e manutenção de webSites -</p>
+                        </div>
+                        <!-- / single experience -->
+                        <!-- single experience -->
+                        <div class="experience-content">
+                            <span class="period-experience"> 01/07/2008 - 08/10/2011</span>
+                            <h3 class="specialty-name">Programador</h3>
+                            <h3 class="company-name">CSF informática</h3>
+                            <p class="prg-experience">Principais atividades:  programador php/mysql
+                                </p>
                         </div>
                         <!-- / single experience -->
                     </div>
