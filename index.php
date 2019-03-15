@@ -447,7 +447,7 @@
                 <div class="col-sm-4">
                     <div class="education-content">
                         <div class="period">
-                            <h3>2006 - 2008</h3>
+                            <h3>2015 - 2017</h3>
                         </div>
                         <ul class="ul-education">
                             <li class="li-specialty">
