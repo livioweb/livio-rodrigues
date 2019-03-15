@@ -471,7 +471,7 @@
                 <div class="col-sm-4">
                     <div class="education-content">
                         <div class="period">
-                            <h3>2004 - 2006</h3>
+                            <h3>1980 - ∞ </h3>
                         </div>
                         <ul class="ul-education">
                             <li class="li-specialty">
