@@ -52,7 +52,7 @@
                 <li><a href="#" data-value="skills">SKILLS</a></li>
                 <li><a href="#" data-value="education">EDUCAÇÂO</a></li>
                 <li><a href="#" data-value="experience">EXPERIENCIA</a></li>
-                <li><a href="#" data-value="portfolio">PORTFOLIO</a></li>
+<!--                <li><a href="#" data-value="portfolio">PORTFOLIO</a></li>-->
                 <!--<li><a href="#" data-value="pricing">VALORES</a></li>-->
                 <!--<li><a href="#" data-value="testimonials">TESTIMONIALS</a></li>-->
                 <li><a href="#" data-value="interests">INTERESSES</a></li>
@@ -93,7 +93,7 @@
                     <div class="col-sm-8">
                         <div class="info-profile">
                             <h2><span>HI I'M</span> LIVIO  RODRIGUES</h2>
-                            <h3>web developer</h3>
+                            <h3>web developer <i>V 0.0.1 BETA</i> </h3>
                             <p>Desenvolvedor Web com mais de 8 anos de experiência.
                                 Experiente em todas as etapas do ciclo de desenvolvimento de projetos dinâmicos da web.
                                 Forte experiência em gestão e liderança</p>
