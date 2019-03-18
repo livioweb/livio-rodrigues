@@ -77,7 +77,7 @@
                     <div class="col-sm-4">
                         <div class="photo-profile">
 
-                            <img src="https://i.ibb.co/k4SxKYy/45332748-575921736195911-6233706196155498496-n.jpg" alt="45332748-575921736195911-6233706196155498496-n" alt="Livio Rodrigues">
+                            <img src="https://i.ibb.co/k4SxKYy/45332748-575921736195911-6233706196155498496-n.jpg"  alt="Livio Rodrigues">
                         </div>
                         <a href="https://docs.google.com/document/d/1KRus8YLKuWw9Bx4_3ExK-jpzzdxVRXBJKYvv5voqjGs/edit"  target="_blank">
                             <div class="download-resume">
@@ -92,8 +92,8 @@
                     </div>
                     <div class="col-sm-8">
                         <div class="info-profile">
-                            <h2><span>HI I'M</span> LIVIO  RODRIGUES</h2>
-                            <h3>web developer <i>v 1.0.1 BETA</i> </h3>
+                            <h2><span>HI I'M</span> LIVIO  RODRIGUES CICLE TO -> STAGIN -> PRODUCTION </h2>
+                            <h3>Web Developer - CI - <i>CuriculoWeb v 1.0.1 BETA</i> </h3>
                             <p>Desenvolvedor Web com mais de 8 anos de experiência.
                                 Experiente em todas as etapas do ciclo de desenvolvimento de projetos dinâmicos da web.
                                 Forte experiência em gestão e liderança</p>
@@ -253,6 +253,30 @@
                             </div>
                         </div>
                         <!-- / single skill -->
+                        <!-- single skill -->
+                        <div class="skill">
+                            <div class="title-progress">
+                                <span class="skill-name">BootStrap4</span>
+                                <span class="skill-value">80%</span>
+                            </div>
+                            <div class="progress">
+                                <div class="progress-bar progress5" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 80%;">
+                                </div>
+                            </div>
+                        </div>
+                        <!-- / single skill -->
+                        <!-- single skill -->
+                        <div class="skill">
+                            <div class="title-progress">
+                                <span class="skill-name">Vue.js</span>
+                                <span class="skill-value">70%</span>
+                            </div>
+                            <div class="progress">
+                                <div class="progress-bar progress5" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 70%;">
+                                </div>
+                            </div>
+                        </div>
+                        <!-- / single skill -->
                     </div>
                 </div>
                 <div class="col-md-7">
@@ -353,6 +377,12 @@
                                         <div class="skill">
                                             <i class="fa fa-check-square-o" aria-hidden="true"></i>
                                             <span>Spring/Java</span>
+                                        </div>
+                                        <!-- / single other skill -->
+                                        <!-- single other skill -->
+                                        <div class="skill">
+                                            <i class="fa fa-check-square-o" aria-hidden="true"></i>
+                                            <span>HTML/CSS</span>
                                         </div>
                                         <!-- / single other skill -->
                                     </div>
