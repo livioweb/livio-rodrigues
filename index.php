@@ -92,8 +92,8 @@
                     </div>
                     <div class="col-sm-8">
                         <div class="info-profile">
-                            <h2><span>HI I'M</span> LIVIO  RODRIGUES  TO -> STAGIN </h2>
-                            <h3>Web Developer <i>CuriculoWeb v 1.0.1 BETA</i> </h3>
+                            <h2><span>HI I'M</span> LIVIO  RODRIGUES CICLE TO -> STAGIN -> PRODUCTION </h2>
+                            <h3>Web Developer - CI - <i>CuriculoWeb v 1.0.1 BETA</i> </h3>
                             <p>Desenvolvedor Web com mais de 8 anos de experiência.
                                 Experiente em todas as etapas do ciclo de desenvolvimento de projetos dinâmicos da web.
                                 Forte experiência em gestão e liderança</p>
