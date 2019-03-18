@@ -8,10 +8,22 @@
     }
   },
   "addons": [],
+
   "buildpacks": [
     {
       "url": "heroku/php"
     }
   ],
+
+  "env": {
+  },
+  "formation": {
+    "web": {
+      "quantity": 1
+    }
+  },
+  "name": "livio-rodrigues",
+  "scripts": {
+  },
   "stack": "heroku-18"
 }
