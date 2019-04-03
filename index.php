@@ -92,14 +92,20 @@
                     </div>
                     <div class="col-sm-8">
                         <div class="info-profile">
-                            <h2><span>HI I'M</span> LIVIO RODRIGUES IN STAGING </h2>
+                            <h2><span>HI I'M</span> LIVIO RODRIGUES </h2>
                             <h3>Curriculo Web Developer - CI - <i>v 1.0.1 BETA</i> </h3>
-                            <p>Desenvolvedor Web com mais de 8 anos de experiência.
-                                Experiente em todas as etapas do ciclo de desenvolvimento de projetos dinâmicos de webApp.
-                                Forte experiência em gestão e liderança</p>
-                            <p>Este projeto 'e um teste de desenvolvimento com integracao continua entre o github com deploy automatico no HEROKU, que hospeda esse projeto,
-                                que pode sere acessado aqui: <a href="https://github.com/livioweb/livio-rodrigues">github.com/livioweb/</a>
-
+                            <p>O que te motiva?</br>
+                                Sou desenvolvedor Web com mais de 8 anos de experiência.</br>
+                                Experiente em todas as etapas do ciclo de desenvolvimento de projetos dinâmicos de webApps.
+                                Entendo que a cultura devops é que mais satirfaz o desenvolvimento de softwares moderno, isso aliado a
+                                uma metodologia agil e entrega e integracão continua.
+                            </p>
+                            <p>
+                                Este projeto esta em constante aperfeiçoamento, agora ele sera portado para um projeto que se trata de um PWA com ReactJs Bootstrap4 para o front
+                                e o backend acho que farei em PHP
+                            </p>
+                            <p>O desenvolvimento com integracao continua entre o github com deploy automatico no HEROKU, que hospeda esse projeto,
+                                que pode sere acessado aqui: <a href="https://github.com/livioweb/livio-rodrigues">github.com/livioweb/livio-rodrigues</a>
                             </p>
                             <div class="row">
                                 <div class="col-sm-6">
@@ -130,7 +136,7 @@
                                         </li>
                                         <li class="li-info">
                                             <span class="title-info">Nacionalidade</span>
-                                            <span class="info">Brasileira</span>
+                                            <span class="info"> Brasileira</span>
                                         </li>
                                     </ul>
                                 </div>
@@ -178,7 +184,7 @@
                 <div class="col-md-5">
                     <div class="professional-skills">
                         <div class="title-skills">
-                            <h3>HABILIDADES PROFIOSSIONAIS</h3>
+                            <h3>HABILIDADES PROFISSIONAIS</h3>
                         </div>
                         <!-- single skill -->
                         <div class="skill">
@@ -287,7 +293,7 @@
                         <div class="circle-progress">
                             <div class="row">
                                 <!-- single circle skill -->
-                                <div class="col-sm-4">
+                                <div class="col-sm-3">
                                     <div class="circle">
                                         <div class="chart-percentage">
                                             <span>50%</span>
@@ -302,7 +308,7 @@
                                 </div>
                                 <!-- / single circle skill -->
                                 <!-- single circle skill -->
-                                <div class="col-sm-4">
+                                <div class="col-sm-3">
                                     <div class="circle">
                                         <div class="chart-percentage">
                                             <span>80%</span>
@@ -317,7 +323,7 @@
                                 </div>
                                 <!-- / single circle skill -->
                                 <!-- single circle skill -->
-                                <div class="col-sm-4">
+                                <div class="col-sm-3">
                                     <div class="circle">
                                         <div class="chart-percentage">
                                             <span>85%</span>
@@ -331,6 +337,21 @@
                                     </div>
                                 </div>
                                 <!-- / single circle skill -->
+                                <!-- single circle skill -->
+                                <div class="col-sm-3">
+                                    <div class="circle">
+                                        <div class="chart-percentage">
+                                            <span>85%</span>
+                                        </div>
+                                        <div class="chart" data-percent="85">
+                                            <!-- canvas -->
+                                        </div>
+                                        <div class="name-circle">
+                                            <span>Agil</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- / single circle skill -->
                             </div>
                         </div>
                         <div class="other-skills">
@@ -340,7 +361,7 @@
                                         <!-- single other skill -->
                                         <div class="skill">
                                             <i class="fa fa-check-square-o" aria-hidden="true"></i>
-                                            <span>HEROKU</span>
+                                            <span>Eterno Aprendiz</span>
                                         </div>
                                         <!-- / single other skill -->
                                         <!-- single other skill -->
@@ -428,7 +449,7 @@
                                         <!-- single other skill -->
                                         <div class="skill">
                                             <i class="fa fa-check-square-o" aria-hidden="true"></i>
-                                            <span>Eterno Aprendiz</span>
+                                            <span>HEROKU</span>
                                         </div>
                                         <!-- / single other skill -->
 
@@ -458,7 +479,7 @@
                             <li class="li-specialty">
                                 <div class="specialty">
                                     <span class="education-icon"><i class="fa fa-file-text"></i></span>
-                                    <span class="specialty-name">Ciencias da Computação</span>
+                                    <span class="specialty-name">Ciências da Computação</span>
                                 </div>
                             </li>
                             <li class="li-university">
