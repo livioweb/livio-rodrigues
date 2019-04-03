@@ -87,15 +87,15 @@
                         </a>
                         <div class="available">
                             <i class="fa fa-check" aria-hidden="true"></i>
-                            <span class="text-available">disponível em freelance</span>
+                            <span class="text-available">disponível para freelance</span>
                         </div>
                     </div>
                     <div class="col-sm-8">
                         <div class="info-profile">
                             <h2><span>HI I'M</span> LIVIO RODRIGUES IN STAGING </h2>
-                            <h3>curriculo Web Developer - CI - <i>v 1.0.1 BETA</i> </h3>
+                            <h3>Curriculo Web Developer - CI - <i>v 1.0.1 BETA</i> </h3>
                             <p>Desenvolvedor Web com mais de 8 anos de experiência.
-                                Experiente em todas as etapas do ciclo de desenvolvimento de projetos dinâmicos da web.
+                                Experiente em todas as etapas do ciclo de desenvolvimento de projetos dinâmicos de webApp.
                                 Forte experiência em gestão e liderança</p>
                             <p>Este projeto 'e um teste de desenvolvimento com integracao continua entre o github com deploy automatico no HEROKU, que hospeda esse projeto,
                                 que pode sere acessado aqui: <a href="https://github.com/livioweb/livio-rodrigues">github.com/livioweb/</a>
